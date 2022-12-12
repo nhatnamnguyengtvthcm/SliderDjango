@@ -3,8 +3,8 @@ import json
 from django.shortcuts import render
 from django.views.generic import TemplateView
 # Create your views here.
-from django_sliders.slider.models import Slider
-from django_sliders.slider.serializers import SliderTemplate
+from slider.models import Slider
+from slider.serializers import SliderTemplate
 
 
 class SliderIndex(TemplateView):

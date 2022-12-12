@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from django_sliders.slider.models import Slider
+from slider.models import Slider
 
 
 class SliderTemplate(serializers.ModelSerializer):

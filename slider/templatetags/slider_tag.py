@@ -1,10 +1,10 @@
 import json
 
-from django_sliders.slider.models import Slider
+from slider.models import Slider
 from django import  template
 from django.core import serializers
 
-from django_sliders.slider.serializers import SliderTemplate
+from slider.serializers import SliderTemplate
 
 register = template.Library()
 

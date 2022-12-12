@@ -1,0 +1,18 @@
+[
+{
+    "model": "slider.Slider",
+    "pk": 1,
+    "fields": {
+        "name": "slider1.jpg",
+        "created_on": "2020-03-24T18:16:39.102Z"
+    }
+},
+{
+    "model": "slider.Slider",
+    "pk": 2,
+    "fields": {
+        "name": "slider1.jpg",
+        "created_on": "2020-03-24T18:16:41.005Z"
+    }
+}
+]
