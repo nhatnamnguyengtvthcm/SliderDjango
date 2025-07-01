@@ -1,5 +1,3 @@
-Dưới đây là nội dung file `README.md` đã được định dạng lại, bạn có thể copy và dán trực tiếp:
-
 ````markdown
 # SliderDjango
 
